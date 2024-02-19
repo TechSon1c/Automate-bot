@@ -1,0 +1,17 @@
+{
+  "name": "crypto-telling-bot-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-emoji": "^2.1.3",
+    "prompt": "^1.3.0"
+  }
+}
